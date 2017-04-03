@@ -2,6 +2,7 @@
 A Data Mining project that attempts to answer questions about shot preferences for an NBA team
 
 Purpose:
+
 Most people who watch basketball can, at least at basic level, understand the value of taking an open, 
 corner three pointer vs. taking a long, contested, two. But what is the exact difference in shot quality? 
 On average, is it advantageous to pass up a semi-open elbow jumper for a not so open, top of the key, three?
@@ -17,4 +18,4 @@ through free agency (and the draft) by telling us what traits and characteristic
 terms if we, as a team, taking higher quality shots than our opponent we should win most nights. But to do so,
 we have to dissect the makings of a shot and find out, on average, what makes one better than another.
 
-Look at nbaShotQuality.PDF to see the method and findings for the project
+Look at nbaShotQuality.PDF to see the full write up for this project
