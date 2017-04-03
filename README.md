@@ -18,6 +18,6 @@ through free agency (and the draft) by telling us what traits and characteristic
 terms if we, as a team, taking higher quality shots than our opponent we should win most nights. But to do so,
 we have to dissect the makings of a shot and find out, on average, what makes one better than another.
 
--Look at nbaShotQuality.PDF to see the full write up for this project
+- Look at nbaShotQuality.PDF to see the full write up for this project
 
--The pictures and illustrations described within the nbaShotQuality.PDF can be seen in the Illustrations.PDF
+- The pictures and illustrations described within the nbaShotQuality.PDF can be seen in the Illustrations.PDF
