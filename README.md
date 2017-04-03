@@ -1,7 +1,7 @@
 # Mapping-NBA-Shot-Quality
 A Data Mining project that attempts to answer questions about shot preferences for an NBA team
 
-Purpose:
+### Purpose:
 
 Most people who watch basketball can, at least at basic level, understand the value of taking an open, 
 corner three pointer vs. taking a long, contested, two. But what is the exact difference in shot quality? 
