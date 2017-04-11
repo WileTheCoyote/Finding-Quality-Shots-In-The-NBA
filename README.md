@@ -4,7 +4,7 @@ A Data Mining project that attempts to map NBA shot attempts by their respective
 ### Purpose:
 
 Most people who watch basketball can, at least at basic level, understand the value of taking an open, 
-corner three pointer vs. taking a long, contested, two. But what is the exact difference in shot quality? 
+corner three vs. taking a long, contested, two. But what is the exact difference in shot quality? 
 On average, is it advantageous to pass up a semi-open elbow jumper for a not so open, top of the key, three?
 It’s these types of shot decisions that can often win or lose a game and inevitably decide the success of 
 a long season. This project aims to find out which shots are more worthy of an attempt by using techniques 
