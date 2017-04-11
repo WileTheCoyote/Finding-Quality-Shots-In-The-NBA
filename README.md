@@ -1,4 +1,4 @@
-# Mapping NBA Shot Quality
+# Finding Quality Shots In The NBA
 A Data Mining project that attempts to map NBA shot attempts by their respective quality 
 
 ### Purpose:
